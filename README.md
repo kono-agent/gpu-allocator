@@ -19,6 +19,8 @@ gpu-allocator = "0.28.0"
 
 This crate provides a fully written in Rust memory allocator for Vulkan, DirectX 12 and Metal.
 
+> **Fork note:** this copy contains local modifications — see [FORK_CHANGES.md](FORK_CHANGES.md).
+
 ## Setting up the Vulkan memory allocator
 
 ```rust
